@@ -9,8 +9,8 @@ I make games. I'm studying Programming and Game Design at INN in Hamar, Norway, 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/RillianZ/metal-gears"><img src="img/metal-gears.jpg" alt="Metal Gears"></a><br>
-<b><a href="https://github.com/RillianZ/metal-gears">Metal Gears</a></b><br>
+<a href="https://sundorigin.org/projects/metal-gears.html"><img src="img/metal-gears.jpg" alt="Metal Gears"></a><br>
+<b><a href="https://sundorigin.org/projects/metal-gears.html">Metal Gears</a></b><br>
 First person stealth in neon training sims. Unreal 5, C++ and Blueprints. Programming 2 exam, team project, I was lead programmer.
 </td>
 <td width="50%" valign="top">
